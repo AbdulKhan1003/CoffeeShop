@@ -1,0 +1,4 @@
+[19-Dec-2023 14:52:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/edugramp/coffeeshop.edugrampk.com/cart-data/database-helper.php on line 6
+[19-Dec-2023 14:52:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/edugramp/coffeeshop.edugrampk.com/cart-data/database-helper.php on line 6
+[19-Dec-2023 14:52:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/edugramp/coffeeshop.edugrampk.com/cart-data/database-helper.php on line 6
+[19-Dec-2023 14:53:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/edugramp/coffeeshop.edugrampk.com/cart-data/database-helper.php on line 6
